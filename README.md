@@ -84,13 +84,13 @@ http://localhost/student-management-system/
 ![Home Page](Screenshots/home.PNG)
 
 ### Admin Login
-(Add Screenshot)
+![Admin Login](Screenshots/admin%20login.PNG)
 
 ### Dashboard
-(Add Screenshot)
+![Dashboard](Screenshots/dashboard.PNG)
 
 ### Student List
-(Add Screenshot)
+![Student List](Screenshots/students.PNG)
 
 ## 🔮 Future Improvements
 
