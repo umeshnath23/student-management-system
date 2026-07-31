@@ -81,7 +81,7 @@ http://localhost/student-management-system/
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.PNG)
+(screenshots/home.PNG)
 
 ### Admin Login
 (Add Screenshot)
